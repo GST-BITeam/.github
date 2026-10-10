@@ -45,5 +45,5 @@ Closes #<nomor issue>
 - [ ] Cabang sudah diperbarui dari cabang tujuannya (`development`; perbaikan mendesak: `prod`)
 - [ ] `HANDOFF.md` sudah dihapus — isinya dipindah ke deskripsi ini
 - [ ] Label prioritas sama dengan issue-nya
-- [ ] `bukti-tes` ✅ dan Aturan repo ✅ di commit terakhir
+- [ ] `bukti-tes` ✅ di commit terakhir (termasuk aturan repo)
 - [ ] Setiap pemeriksaan di issue terpenuhi, dan buktinya ada di PR ini
